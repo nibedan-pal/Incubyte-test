@@ -13,6 +13,9 @@ Tech Stack:
 ## Database : MongoDB
 ## Deployment : Heroku for Backend and Netlify for Frontend
 
+https://incubyte-app-test.herokuapp.com/posts Backend API
+https://resonant-kangaroo-5ec803.netlify.app/  Frntend UI
+
 
 
 Setup:
