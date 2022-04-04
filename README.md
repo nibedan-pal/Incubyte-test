@@ -14,7 +14,8 @@ Tech Stack:
 ## Deployment : Heroku for Backend and Netlify for Frontend
 
 Backend API : https://incubyte-app-test.herokuapp.com/posts 
-Frntend UI : https://resonant-kangaroo-5ec803.netlify.app/  Frntend UI
+<br/>
+Frntend UI : https://resonant-kangaroo-5ec803.netlify.app/ 
 
 
 
